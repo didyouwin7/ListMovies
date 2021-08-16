@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676395135859",
+    "project_id": "list-movie-a2d0b",
+    "storage_bucket": "list-movie-a2d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676395135859:android:bb98282fcd467291e84b06",
+        "android_client_info": {
+          "package_name": "com.example.vishwas.project.list_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676395135859-pddubi56nu1ptsc8h8n7ef96910bn6lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GIA-isk2wrg8QqQhkphR3MuuBzyEBJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676395135859-pddubi56nu1ptsc8h8n7ef96910bn6lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
