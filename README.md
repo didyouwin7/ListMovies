@@ -1,6 +1,6 @@
 # list_movies
 
-Flutter project to implement gauth, infinte listview and add, edit, delete,list features in a movie list app.
+Flutter project to implement google authentication, listview and add, edit, delete, view features in a movie list app.
 
 ## Getting Started
 
